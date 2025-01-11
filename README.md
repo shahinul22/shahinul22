@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahinul22&label=Profile%20views&color=0e75b6&style=flat" alt="shahinul22" /> </p>
 
 
-- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shahinul22?tab=repositories](https://github.com/shahinul22?tab=repositories)
 
-- 💬 Ask me about **react
 
 - 📫 How to reach me **shahinul.alam007@gmail.com**
 
