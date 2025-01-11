@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shahinul22?tab=repositories](https://github.com/shahinul22?tab=repositories)
 
-- 💬 Ask me about **react, vue**
+- 💬 Ask me about **react
 
 - 📫 How to reach me **shahinul.alam007@gmail.com**
 
