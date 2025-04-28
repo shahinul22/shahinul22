@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Md+Shahinul+Alam+Murad;Full-stack+Developer+from+Bangladesh;Always+learning+new+things...&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,Shahinul+Alam+Murad...&center=true&size=30">
 </p>
 
 <h1 align="center">Welcome to My GitHub Profile!</h1>
